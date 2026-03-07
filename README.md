@@ -1,6 +1,8 @@
 ## Моделирование пучка, проходящего через тонкие линзы
 ### ДРЕЙФ - КВАДРУПОЛЬ - ДРЕЙФ - КВАДРУПОЛЬ - ДРЕЙФ - КВАДРУПОЛЬ - ДРЕЙФ
 
+Ссылка на коды: Google Colab - https://colab.research.google.com/drive/1rt0MGpgSocaQnZoczomp_tpyeHwMCmWe?usp=sharing
+
 ![](images/thin_before.png)
 рис. 1 (Данные пучка до триплета из тонких линз)
 
